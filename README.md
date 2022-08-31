@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-### Projeto de uma aplicação Web de lsta de tarefas, simples e prática, para orgnizar as tarefas do seu dia a dia.
+### Projeto de uma aplicação Web de lista de tarefas, simples e prática, para organizar as tarefas do seu dia a dia.
 #
 
 ![](./Assets/images/lista-de-tarefas.png)
